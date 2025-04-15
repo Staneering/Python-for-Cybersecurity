@@ -1,10 +1,10 @@
-Great! Let's move on to the next topic: **Control Structures**.
+**Control Structures**.
 
 ---
 
 ### **3. Control Structures** (`docs/beginner/03_control_structures.md`)
 
-```markdown
+
 # Control Structures
 
 Control structures are fundamental to programming because they allow you to manage the flow of your code. In this section, we’ll cover **conditional statements** and **loops**, both of which are commonly used in cybersecurity scripts to automate tasks, analyze data, and make decisions.
