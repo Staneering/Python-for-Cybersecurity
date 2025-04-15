@@ -3,7 +3,7 @@
 
 ### **1. Introduction to Python for Cybersecurity** (`docs/beginner/01_introduction_to_python.md`)
 
-```markdown
+
 # Introduction to Python for Cybersecurity
 
 Python is an essential programming language for cybersecurity professionals. It's widely used for writing scripts to automate security tasks, create cybersecurity tools, and analyze data. In this section, we will introduce Python, help you set up your development environment, and get you started with writing basic Python code.
